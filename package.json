@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mirtauhid/airports-autocomplete/issues"
   },
-  "homepage": "https://github.com/mirtauhid/airports-autocomplete#readme"
+  "homepage": "https://github.com/mirtauhid/airports-autocomplete#readme",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
 }
